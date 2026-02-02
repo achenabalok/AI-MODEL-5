@@ -1,0 +1,73 @@
+{
+  "prompt": {
+    "subject": {
+      "identity": {
+        "description": "Use the uploaded image as a reference.",
+        "identity_rule": "Do not change facial structure, hair, skin tone, or overall appearance. The subject must match the reference image exactly."
+      },
+      "pose": {
+        "body_position": "Seated on a wooden window ledge, angled slightly forward",
+        "legs": "One leg bent at the knee with foot resting on the ledge, the other leg down or tucked naturally",
+        "hands": "Resting casually on the wooden sill"
+      }
+    },
+
+    "clothing": {
+      "bodysuit": {
+        "color": "Cream",
+        "material": "Ribbed knit fabric",
+        "style": "Long-sleeved, deep V-neck, form-fitting"
+      },
+      "legwear": {
+        "item": "Thigh-high socks",
+        "color": "Black with three white horizontal stripes at the top",
+        "style": "Athletic / varsity aesthetic"
+      },
+      "footwear": {
+        "item": "Winter hiking boots",
+        "material": "Tan suede with cream shearling lining",
+        "details": "Bright red laces, rugged sole"
+      },
+      "accessories": {
+        "headwear": "Large fluffy black earmuffs",
+        "neckwear": [
+          "Black lace choker",
+          "Thin gold necklace with a key pendant"
+        ]
+      }
+    },
+
+    "environment": {
+      "setting": "Indoor window seat overlooking a winter landscape",
+      "architectural_details": "Large glass pane window with light wood frame and casing",
+      "background_landscape": {
+        "season": "Winter",
+        "elements": [
+          "Snow-covered ground",
+          "White-barked birch or aspen trees",
+          "Distant snowy hills or mountains",
+          "Bright overcast sky"
+        ]
+      }
+    },
+
+    "lighting": {
+      "source": "Natural daylight entering through the large window",
+      "quality": "Soft, diffused natural light",
+      "shadows": "Minimal, gentle interior shadows"
+    },
+
+    "mood_and_atmosphere": {
+      "vibe": "Cozy, après-ski inspired, relaxed and inviting",
+      "tonality": "Cool winter tones balanced with warm wood and natural interior light"
+    },
+
+    "camera_specifications": {
+      "style": "Ultra photorealistic lifestyle portrait",
+      "angle": "Eye-level shot",
+      "focal_length": "50mm–85mm portrait range",
+      "depth_of_field": "Shallow depth of field (around f/2.8), subject sharp, outdoor background softly blurred",
+      "resolution": "8K, high-definition texture rendering"
+    }
+  }
+}
